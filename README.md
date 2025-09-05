@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">🕶️ Unknown-APT 🕶️</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250"/>
+</p>
 
-<!--
-**Unknown-APT/Unknown-APT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👁️ Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+---
+
+## ⚡️ Arsenal
+- 🔒 Exploiting the unseen
+- 🕳️ Mapping the underground
+- 🎯 Hunting the untraceable
+- ⚠️ Chaos engineering
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Unknown-APT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-APT&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+---
+
+## ⚡️ Quote
+> *"Stay in shadows, code in silence."*
